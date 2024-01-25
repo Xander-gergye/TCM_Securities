@@ -1,6 +1,6 @@
 #!/bin/python3
  
-#Programmer: Gabe Westra
+#Programmer: X Gergye
 #Program: Strings
  
 print("Michigan Wolverines are National Champions\n")
